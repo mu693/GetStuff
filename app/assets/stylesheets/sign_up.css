@@ -16,6 +16,10 @@
   color: crimson;
 }
 
+.heading {
+  margin-left: 40%;
+}
+
 .welcome img {
   width: 100px;
   height: 100px;
@@ -89,5 +93,10 @@
 
   .label-text {
     font-size: 12px;
+  }
+
+  .heading {
+    font-size: 20px;
+    margin-left: 40%;
   }
 }
