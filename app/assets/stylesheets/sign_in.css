@@ -72,6 +72,10 @@
     height: 50px;
   }
 
+  .heading {
+    margin-left: 40%;
+  }
+
   .sign_in_container .sign_in_form {
     margin-left: 10px;
     margin-right: 10px;
@@ -89,5 +93,9 @@
 
   .label-text {
     font-size: 12px;
+  }
+  .heading {
+    font-size: 20px;
+    margin-left: 40%;
   }
 }
